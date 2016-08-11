@@ -1,0 +1,5 @@
+build/
+*.sw[po]
+node_modules/
+.eslintcache
+.sass-cache/
