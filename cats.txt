@@ -9,23 +9,31 @@ Using React/Redux:
 -------------------------------------------------------------------
 
 Bonus points for using:
-- Linting
-- Tests
-- ES6
-- functional programming patterns
+- Linting [x]
+- Tests [ ]
+- ES6 [x]
+- functional programming patterns [x]
 
 Style points:
-- Grid Layout
-- Basic Animation
-- SASS
+- Grid Layout [ ]
+- Basic Animation [x]
+- SASS [x]
 
 Feel free to additional additional functionality such as:
-- Rearrange images on DOM.
-- Sorting by length of fact.
-- Adding additional pictures/quotes.
+- Rearrange images on DOM. [ ]
+- Sorting by length of fact. [ ]
+- Adding additional pictures/quotes. [ ]
 
 -------------------------------------------------------------------
 
 Please use your github account and call the repo: 'cats'
 
 When completed, please let us know and state how long the project took to complete.
+
+
+Webpack/babel/sass config took me about 1.5hrs (something that worked in a previous project didn't work for this :thinking_face:).
+Understanding how async works with redux/thunk took about 4hrs (the async example code led me slightly astray).
+Basic coding of data flow structure (to include a slight refactor after realizing) redux requires immutable objects took about 3hrs.
+Adding styles, animations, and logic around errors and empty lists took about 2-3hrs.
+
+*All in all I spent ~11 hours on this task across 4 or 5days.*
